@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @prathyu010
-- 👀 I’m interested in Devops Engineer roles
-- 🌱 I’m currently learning Aws, devops tools(jenkins,kubernetes,terraformetc.,)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello, I'm Prathyusha 👋
 
-<!---
-prathyu010/prathyu010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+I'm an aspiring DevOps Engineer passionate about automating processes, improving system reliability, and accelerating software delivery. As a fresher, I'm constantly learning and building projects to enhance my skills in DevOps practices.
+
+## 🚀 Skills & Technologies
+### DevOps Tools
+- **CI/CD**: GitHub Actions
+- **Infrastructure as Code**: Terraform (basic)
+- **Containers**: Docker
+- **Cloud Platforms**: AWS (basic)
+- **Scripting**: Bash, Python
