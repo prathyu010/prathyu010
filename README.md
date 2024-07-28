@@ -10,3 +10,14 @@ I'm an aspiring DevOps Engineer passionate about automating processes, improving
 - **Containers**: Docker
 - **Cloud Platforms**: AWS (basic)
 - **Scripting**: Bash, Python
+
+
+🌱 Currently Learning
+- CI/CD with Jenkins
+- Advanced Docker concepts
+- Kubernetes fundamentals
+
+## 💬 Ask Me About
+- Getting started with GitHub Actions
+- Basics of Docker and containerization
+- Setting up simple CI/CD pipelines
